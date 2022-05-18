@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Items", "Items\Items.csproj", "{5896F93C-E998-46AA-AE72-1E4422F3F4E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cookies", "Cookies\Cookies.csproj", "{55FE6371-94E9-4943-8103-E730B7B21308}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cookies", "Cookies\Cookies.csproj", "{55FE6371-94E9-4943-8103-E730B7B21308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sessions", "Sessions\Sessions.csproj", "{C4644154-A9A8-4D2A-9E14-634F1138A97F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{55FE6371-94E9-4943-8103-E730B7B21308}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55FE6371-94E9-4943-8103-E730B7B21308}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55FE6371-94E9-4943-8103-E730B7B21308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4644154-A9A8-4D2A-9E14-634F1138A97F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4644154-A9A8-4D2A-9E14-634F1138A97F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4644154-A9A8-4D2A-9E14-634F1138A97F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4644154-A9A8-4D2A-9E14-634F1138A97F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
